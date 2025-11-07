@@ -1,6 +1,8 @@
-# Agent Arena Academy
+# Agent Arena Academy (AgentWar)
 
 An innovative 2D combat game where you don't control the fighter—you **coach** an AI agent powered by Google's Gemini 2.0 Flash AI model. Watch as your AI character "Thunder" learns to fight autonomously, adapting to your coaching style and improving through experience.
+
+**Train an Agent to Win**
 
 ![Project Status](https://img.shields.io/badge/status-active-success.svg)
 ![Python](https://img.shields.io/badge/python-3.9+-blue.svg)
